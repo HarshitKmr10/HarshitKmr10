@@ -2,9 +2,7 @@
 
 # Harshit Kumar
 
-**Senior ML Engineer @ [FuturePath AI](https://futurepath.ai)** — building agent infrastructure and applied ML systems.
-
-Previously: WorldQuant · Scale AI · CallPrep
+**Solutions Architect @ [FuturePath AI](https://futurepath.ai)** — building agent infrastructure and applied ML systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--kumar---0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-/)
 [![Discord](https://img.shields.io/badge/boxxkite-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/JntfAx7cg5)
