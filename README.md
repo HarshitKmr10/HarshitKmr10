@@ -62,6 +62,11 @@ container-and-hope most "agent sandbox" projects ship.
 <td><code>Python</code> <code>Next.js</code> <code>Docker</code></td>
 </tr>
 <tr>
+<td><a href="https://github.com/HarshitKmr10/Warden">Warden</a></td>
+<td>A calendar-driven focus enforcer for macOS — schedule blocks for deep work and it locks your Mac down to only the apps you allow, blocking distracting sites for the duration. No app to babysit; the calendar is the interface.</td>
+<td><code>Swift</code> <code>macOS</code></td>
+</tr>
+<tr>
 <td><a href="https://github.com/HarshitKmr10/devops_triaging">devops_triaging</a></td>
 <td>OpenEnv-compliant ITSM environment for training LLM agents on incident response and ticket triage, with a full RL training pipeline and procedural scenario generator.</td>
 <td><code>Python</code> <code>RL</code></td>
